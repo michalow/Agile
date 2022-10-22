@@ -1,0 +1,12 @@
+User story
+Parc informatique
+- en tant qu'utilisateur, je peux accèder à ma session d'utilisateur afin de pouvoir travailler sur mon ordianteur
+- en tant qu'utilisateur, je peux me connecter à distance au serveur
+- en tant qu'utilisateur, je peux accèder aux documents partagés
+- en tant qu'utilisateur, je peux imprimer les documents
+- en tant qu'utilisateur, j'ai les droits d'écriture d'un fichier afin que je puisse le modifier 
+- en tant qu'utilisateur, je peux accèder à la messagerie afin de réceptionner et envoyer les messages
+- en tant qu'administrateur, je peux gèrer l'accès aux utilisateurs
+- en tant qu'administrateur, je peux connecter les postes autre eux
+- en tant qu'administarteur, je peux mettre en place un vpn afin de travailler à distance  
+ 
